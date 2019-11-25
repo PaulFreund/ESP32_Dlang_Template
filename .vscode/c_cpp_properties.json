@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "name": "ESP32",
+            "includePath": [
+                "${workspaceFolder}\\main\\**",
+                "${workspaceFolder}\\components\\**",
+                "${workspaceFolder}\\esp-idf\\components\\**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "ESP_PLATFORM"
+            ],
+            "browse": {
+                "path": [
+                    "${workspaceFolder}\\main",
+                    "${workspaceFolder}\\components",
+                    "${workspaceFolder}\\esp-idf\\components"
+                ],
+                "limitSymbolsToIncludedHeaders": false,
+                "databaseFilename": ""
+            },
+            "intelliSenseMode": "gcc-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
