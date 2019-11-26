@@ -49,6 +49,12 @@ or (legacy)
 make
 ```
 
+# Todo
+
+* Better description of steps to get LDC Xtensa to work
+* Add support for CMake
+* Cleanup
+
 # Acknowledgements
 
 Thanks for this guide!: https://wiki.dlang.org/D_on_esp32/esp8266(llvm-xtensa%2Bldc)_and_how_to_get_started
