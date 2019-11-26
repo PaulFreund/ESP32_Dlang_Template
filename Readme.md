@@ -42,12 +42,13 @@ source ./env.sh
 
 9. Build
 ```
-idf.py build 
-```
-or (legacy)
-```
 make
 ```
+The new build system is not yet supported, see Todo
+```
+idf.py build 
+```
+
 
 # Todo
 
