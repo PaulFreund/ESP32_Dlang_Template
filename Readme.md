@@ -6,7 +6,7 @@ Aim of this project template is to make getting D (betterC) code to run on the E
 
 1. Install prerequisites
 ```
-sudo apt-get install git wget flex bison gperf pythonpython-pip python-setuptools python-serial python-clickpython-cryptography python-future python-pyparsingpython-pyelftools cmake ninja-build ccache
+sudo apt-get install git wget flex bison gperf python python-pip python-setuptools python-serial python-click python-cryptography python-future python-pyparsing python-pyelftools cmake ninja-build ccache
 ```
 Make sure everything in install_ldc_xtensa.sh was executed.
 
